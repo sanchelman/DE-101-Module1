@@ -1,1 +1,1 @@
-# DE-101-Module1
+# Курс для познания професии Date Engineer
